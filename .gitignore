@@ -1,0 +1,9 @@
+__pycache__/
+
+scripts/IWSLT14/iwslt14.tokenized.de-en/*
+scripts/IWSLT14/mosesdecoder/*
+scripts/IWSLT14/orig/*
+scripts/IWSLT14/subword-nmt/*
+data-bin/*
+checkpoints/*
+logs/*
